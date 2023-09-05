@@ -1,5 +1,23 @@
 # React Admin Dashboard
 
-Build a COMPLETE React Admin Dashboard App | React, Material UI, Data Grid, Light & Dark Mode
+![Design WEB and Mobile](./src/dashboard.png)
+
+### Built with
+
+- React JS
+- JavaScript
+- Flexbox
+- CSS Grid
+
+
+## How to Use
+
+```bash
+# using npm
+npm start
+
+# OR using Yarn
+yarn start
+```
 
 
